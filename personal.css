@@ -92,7 +92,7 @@ a:hover {
 }
 
 #education {
-    justify-content: left;
+    align-items: left;
 }
 
 .content ul {
