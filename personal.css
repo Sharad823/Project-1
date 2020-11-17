@@ -89,6 +89,7 @@ a:hover {
     padding: 2rem 0;
     font-size: 1.5rem;
     text-decoration: underline;
+    justify-content: left;
 }
 
 .content ul {
