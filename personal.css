@@ -282,5 +282,9 @@ and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71)    {
     .content p {
         padding: .5rem 2rem;
     }
+    
+    .form input {
+    width: 15rem;
+    }
    
 }
