@@ -276,7 +276,7 @@ hr {
 and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71)    {
     
     .content h1 {
-    font-size: initial;
+    font-size: 1.25rem;
     }
     
     .content p {
