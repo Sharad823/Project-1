@@ -212,7 +212,7 @@ hr {
     border: .15rem solid darkgray;
     border-radius: .15rem;
 }
-/*
+
 @media only screen and (max-width: 600px) {
     #label {
         display: inline-block;
@@ -271,5 +271,4 @@ hr {
         font-size: initial;
     }
 }
-*/
 
