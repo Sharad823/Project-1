@@ -170,6 +170,10 @@ form {
     color: black;
 }
 
+ .form .info {
+        padding-left: 1rem;
+    }
+
 #comments {
     border-radius: 1rem;
 }
