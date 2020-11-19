@@ -264,6 +264,7 @@ hr {
     }
 
     #h2-contact {
+        display: flex;
         font-size: 1.25rem;
     }
 
@@ -283,8 +284,8 @@ and (-webkit-device-pixel-ratio: 2) and (device-aspect-ratio: 40/71)    {
         padding: .5rem 2rem;
     }
     
-    .form {
-        max-width: 75%;
+    .form input {
+        width: 80%;
     }
     
 }
