@@ -57,7 +57,7 @@ a:hover {
 
 .main {
     background-color: rgb(211,211,211, .8);
-    height: calc(100vh - 5rem);
+    height: calc(100vh - 6rem);
     width: 100%;
     display: flex;
     flex-direction: column;
@@ -66,8 +66,6 @@ a:hover {
     top: 3rem;
     overflow: scroll;
     padding-bottom: 5rem;
-    /* test below*/
-    margin-bottom: 5rem;
 }
 
 .content {
