@@ -6,6 +6,10 @@
     font-size: 16px;
 }
 
+body {
+    background-color: rgb(211,211,211, .8);
+{
+
 #toggle {
     display: none;
 }
