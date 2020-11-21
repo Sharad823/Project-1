@@ -118,6 +118,8 @@ a:hover {
     display: flex;
     align-items: center;
     justify-content: center;
+    /*test below*/
+    margin-top: 2rem;
 }
 
 .ion-icon {
