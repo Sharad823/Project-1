@@ -60,7 +60,7 @@ a:hover {
 }
 
 .main {
-    background-color: rgb(211,211,211, .8);
+    /*background-color: rgb(211,211,211, .8);*/
     height: 100%;
     /*height: calc(100% - 6rem);*/
     width: 100%;
